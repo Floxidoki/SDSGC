@@ -1,0 +1,83 @@
+{
+  "20" : {
+    "number" : "20",
+    "name" : "Alioni",
+    "rarity" : "R",
+    "color" : "Green",
+    "type" : "Human",
+    "url" : "portrait_20.png"
+  },
+
+  "74" : {
+    "number" : "74",
+    "name" : "Arthur",
+    "rarity" : "SSR",
+    "color" : "Red",
+    "type" : "Human",
+    "url" : "portrait_74.png"
+  },
+
+  "76" : {
+    "number" : "76",
+    "name" : "Arthur",
+    "rarity" : "SR",
+    "color" : "Blue",
+    "type" : "Human",
+    "url" : "portrait_76.png"
+  },
+
+  "5" : {
+    "number" : "5",
+    "name" : "Ban",
+    "rarity" : "SSR",
+    "color" : "Green",
+    "type" : "Human",
+    "url" : "portrait_5.png"
+  },
+
+  "11" : {
+    "number" : "11",
+    "name" : "Ban",
+    "rarity" : "SSR",
+    "color" : "Blue",
+    "type" : "Human",
+    "url" : "portrait_11.png"
+  },
+
+  "21" : {
+    "number" : "21",
+    "name" : "Ban",
+    "rarity" : "SR",
+    "color" : "Red",
+    "type" : "Human",
+    "url" : "portrait_21.png"
+  },
+
+  "18" : {
+    "number" : "18",
+    "name" : "Ban",
+    "rarity" : "SSR",
+    "color" : "Green",
+    "type" : "Human",
+    "url" : "portrait_18.png"
+  },
+
+  "78" : {
+    "number" : "78",
+    "name" : "Ban",
+    "rarity" : "SSR",
+    "color" : "Red",
+    "type" : "Human",
+    "url" : "portrait_78.png"
+  },
+
+  "22" : {
+    "number" : "22",
+    "name" : "Cain",
+    "rarity" : "SR",
+    "color" : "Green",
+    "type" : "Human",
+    "url" : "portrait_22.png"
+  }
+}
+
